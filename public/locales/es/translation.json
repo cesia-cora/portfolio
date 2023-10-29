@@ -1,0 +1,43 @@
+{
+    "header": {
+      "developer": "Desarrolladora Web"
+    },
+    "download": {
+        "curriculum": "Currículo"
+    },
+    "nav": {
+      "index": "Índice",
+      "aboutMe": "Sobre mí",
+      "skills": "Habilidades",
+      "projects": "Proyectos",
+      "contact": "Contacto",
+      "resources": "Recursos"
+    },
+    "title": {
+      "about": "Sobre mí",
+      "projects": "Proyectos",
+      "skills": "Habilidades",
+      "contact": "Contacto"
+    },
+    "project": {
+      "cadmus": "Diario personal/agenda.",
+      "hestia": "Recetas de cocina.",
+      "library": "Catálogo bibliotecario.",
+      "marveling": "Proyecto grupal con temática de Marvel Studios.",
+      "tableau": "Visualización de gráficos y storytelling sobre ventas de Adidas.",
+      "hermes": "Tienda de té y café.",
+      "ML-1": "Predicciones en la salud del sueño utilizando aprendizaje automático."
+    },
+    "contact": {
+      "email": "Correo:",
+      "yourEmail": "Tu correo electrónico",
+      "subject": "¿Asunto?",
+      "message": "Tu mensaje...",
+      "submit": "Enviar"
+    },
+    "aboutMe": {
+      "firstP": "Desarrolladora web enfocada en back-end.",
+      "secP": "Abierta a aprender cualquier tecnología para aplicarla a un proyecto y a explorar la mayor cantidad de herramientas que atrapen mi atención.",
+      "thirdP": "Invierto mis conocimientos para desarrollos prolíficos y provechosos."
+    }
+}

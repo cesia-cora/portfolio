@@ -1,0 +1,43 @@
+{
+    "header": {
+      "developer": "Web Developer"
+    },
+    "download": {
+        "curriculum": "Resumé"
+    },
+    "nav": {
+      "index": "Índex",
+      "aboutMe": "About me",
+      "skills": "Skills",
+      "projects": "Projects",
+      "contact": "Contact",
+      "resources": "Resources"
+    },
+    "title": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "contact": "Contact"
+    },
+    "project": {
+      "cadmus": "Registration of entries as a personal diary or journal.",
+      "hestia": "Cooking recipes.",
+      "library": "Library catalogue.",
+      "marveling": "Marvel theme group project.",
+      "tableau": "Adidas sales graphs and storytelling.",
+      "hermes": "Tea and coffee shop.",
+      "ML-1": "Predictions on sleep health using machine learning."
+    },
+    "contact": {
+      "email": "Email:",
+      "yourEmail": "Your email...",
+      "subject": "Subject?",
+      "message": "Your message...",
+      "submit": "Submit"
+    },
+    "aboutMe": {
+      "firstP": "Back-End trained web developer.",
+      "secP": "Open to learn any technology for project assignments and to explore the greatest amount of tools that can catch my attention.",
+      "thirdP": "I invest my capabilities on prolific and fruitful developments."
+    }
+}
