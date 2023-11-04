@@ -78,6 +78,7 @@ a {
 
 .btn-link {
   width: 20%;
+  background-color: inherit;
   color: palevioletred;
   font-family: 'Work Sans', sans-serif;
   padding: 3%;
@@ -89,7 +90,7 @@ a {
 }
 
 .btn-link:hover {
-  color: rgb(169, 90, 116);
+  color: steelblue;
   border: 2px solid rgb(44, 44, 44);
   box-shadow: 3px 3px 3px black, inset 2px 2px 2px black;
 }

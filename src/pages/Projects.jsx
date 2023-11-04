@@ -7,7 +7,7 @@ export const Projects = () => {
 
     return (
         <>
-            <div class="title">
+            <div class="title" id='Projects'>
                 {t('title.projects')}
             </div>
             <div class="container-proyecto">
@@ -114,7 +114,7 @@ export const Projects = () => {
                             </div>
                             <div className="flip-card-back">
                                 <h3>Python</h3>
-                                <p>Predicciones de salud del sueño utilizando aprendizaje automático.</p>
+                                <p>{t('project.ML1')}</p>
                                 <br></br><a class="btn-link" href="" target="_blank">(in progress)</a>
                             </div>
                         </div>

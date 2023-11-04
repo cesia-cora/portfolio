@@ -7,6 +7,7 @@ export const Header = () => {
 
     return (
         <>
+        <div id="Index"></div>
             <div className='all-header'>
                 <div id="container-header">
                     <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ duration: 0.5, delay: 0.1 }}>

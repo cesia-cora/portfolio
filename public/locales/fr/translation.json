@@ -20,19 +20,21 @@
       "contact": "Contact"
     },
     "project": {
-      "cadmus": "Journal personnel/agenda.",
-      "hestia": "Recettes de cuisine.",
-      "library": "Catalogue de bibliothèque.",
-      "marveling": "Projet de groupe sur le thème de Marvel Studios.",
+      "cadmus": "Application web de journal personnel/agenda. Format de texte enrichi.",
+      "hestia": "Application web pour recettes de pâtisserie et de confiserie.",
+      "library": "Application web de catalogue de bibliothèque.",
+      "marveling": "Projet de groupe d’application web sur le thème de Marvel Studios. Il dispose d’actualités, d’une base de données de personnages et d’un magasin virtuel.",
       "tableau": "Visualisation des graphiques de vente et du storytelling d'Adidas.",
       "hermes": "Boutique de thé et café.",
-      "ML-1": "Prédictions sur la santé du sommeil à l'aide de l'apprentissage automatique."
+      "ML-1": "Notebook sur les prédictions de la santé du sommeil à l'aide de l'apprentissage automatique."
     },
     "contact": {
       "email": "Email:",
       "yourEmail": "Votre email...",
-      "subject": "Sujet?",
-      "message": "Votre message...",
+      "subject": "Sujet:",
+      "yourSubject": "Sujet?",
+      "message": "Message:",
+      "yourMessage": "Votre message...",
       "submit": "Envoyer"
     },
     "aboutMe": {

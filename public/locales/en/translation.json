@@ -20,19 +20,21 @@
       "contact": "Contact"
     },
     "project": {
-      "cadmus": "Registration of entries as a personal diary or journal.",
-      "hestia": "Cooking recipes.",
-      "library": "Library catalogue.",
-      "marveling": "Marvel theme group project.",
-      "tableau": "Adidas sales graphs and storytelling.",
+      "cadmus": "Personal diary or journal web application. Rich text formatting.",
+      "hestia": "Baking and confectionery recipes web application.",
+      "library": "Library catalogue web application.",
+      "marveling": "Marvel theme web application group project. News, characters database and virtual store.",
+      "tableau": "Adidas sales visualization and storytelling.",
       "hermes": "Tea and coffee shop.",
-      "ML-1": "Predictions on sleep health using machine learning."
+      "ML-1": "Notebook on sleep health predictions using machine learning."
     },
     "contact": {
       "email": "Email:",
       "yourEmail": "Your email...",
-      "subject": "Subject?",
-      "message": "Your message...",
+      "subject": "Subject:",
+      "yourSubject": "Subject?",
+      "message": "Message:",
+      "yourMessage": "Type your message...",
       "submit": "Submit"
     },
     "aboutMe": {

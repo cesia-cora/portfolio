@@ -6,7 +6,7 @@ export const About = () => {
 
     return (
         <>
-            <div className="title">
+            <div className="title" id="About-me">
                 <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1, delay: 0.3 }}>
                     {t('title.about')}
                 </motion.div>

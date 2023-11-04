@@ -12,7 +12,7 @@ export const Skills = () => {
 
     return (
         <>
-            <div class="title">
+            <div class="title" id='Skills'>
                 {t('title.skills')}
             </div>
             <div class="container-cards">
