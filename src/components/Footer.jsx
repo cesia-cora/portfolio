@@ -8,7 +8,7 @@ export const Footer = () => {
                     <a href="https://www.github.com/cesia-cora" target="_blank">Github</a>
                 </div>
                 <div className="ft-row-2">
-                    <p>Pixel art by <a href="https://twitter.com/viiolaceus" target="_blank" style={{color: 'palevioletred'}}>viiolaceus</a></p>
+                    <p style={{'fontSize': '12px'}}>Pixel art by <a href="https://twitter.com/viiolaceus" target="_blank" style={{color: 'palevioletred'}}>viiolaceus</a></p>
                 </div>
             </div>
         </>

@@ -107,7 +107,7 @@ export const Projects = () => {
                     </div>
                 </motion.div> */}
 
-                <div className="flip-card">
+                {/* <div className="flip-card">
                         <div className="flip-card-inner">
                             <div className="flip-card-front">
                                 <img src='' width="400" height="250" style={{ borderRadius: '5px' }}></img>
@@ -118,7 +118,7 @@ export const Projects = () => {
                                 <br></br><a class="btn-link" href="" target="_blank">(in progress)</a>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
             </div>
         </>
     )
