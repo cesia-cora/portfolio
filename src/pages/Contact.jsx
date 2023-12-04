@@ -6,7 +6,7 @@ export const Contact = () => {
 
     return (
         <>
-            <div className='title' id='Contact'>
+            {/*<div className='title' id='Contact'>
                 <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1, delay: 0.3 }}>
                     {t('title.contact')}
                 </motion.div >
@@ -23,7 +23,7 @@ export const Contact = () => {
                         <input type="submit" className="btn-link" value={t('contact.submit')}></input>
                     </form>
                 </motion.div>
-            </div>
+            </div>*/}
         </>
     )
 }
