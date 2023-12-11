@@ -15,7 +15,7 @@ export const Projects = () => {
                     <div className="flip-card">
                         <div className="flip-card-inner">
                             <div className="flip-card-front">
-                                <img src={Cadmus} width="400" height="250" style={{ borderRadius: '5px' }} alt='Project Cadmus screenshot'></img>
+                                <img src={Cadmus} className='imgProj' style={{ borderRadius: '5px' }} alt='Project Cadmus screenshot'></img>
                             </div>
                             <div className="flip-card-back">
                                 <h3>Django, SQLite</h3>
@@ -31,7 +31,7 @@ export const Projects = () => {
                     <div className="flip-card">
                         <div className="flip-card-inner">
                             <div className="flip-card-front">
-                                <img src={Hestia} width="400" height="250" style={{ borderRadius: '5px' }} alt='Project Hestia screenshot'></img>
+                                <img src={Hestia} className='imgProj' style={{ borderRadius: '5px' }} alt='Project Hestia screenshot'></img>
                             </div>
                             <div className="flip-card-back">
                                 <h3>Express.js, MySQL</h3>
@@ -47,13 +47,13 @@ export const Projects = () => {
                     <div className="flip-card">
                         <div className="flip-card-inner">
                             <div className="flip-card-front">
-                                <img src={Fastapi1} width="400" height="250"></img>
+                                <img src={Fastapi1} className='imgProj' style={{ borderRadius: '5px' }} alt='FastAPI screenshot'></img>
                             </div>
                             <div className="flip-card-back">
                                 <h3>FastAPI, MongoDB</h3>
                                 <p>{t('project.library')}</p>
-                                <br></br><a class="btn-link" href=""
-                                    target="_blank">(in progress)</a>
+                                <br></br><a class="btn-link" href="https://github.com/cesia-cora/fastapi-project"
+                                    target="_blank">Github</a>
                             </div>
                         </div>
                     </div>
@@ -63,7 +63,7 @@ export const Projects = () => {
                     <div className="flip-card">
                         <div className="flip-card-inner">
                             <div className="flip-card-front">
-                                <img src={Marvel} width="400" height="250" style={{ borderRadius: '5px' }} alt='Project Marvel screenshot'></img>
+                                <img src={Marvel} className='imgProj' style={{ borderRadius: '5px' }} alt='Project Marvel screenshot'></img>
                             </div>
                             <div className="flip-card-back">
                                 <h3>React, Firebase</h3>
@@ -81,7 +81,7 @@ export const Projects = () => {
                     <div className="flip-card">
                         <div className="flip-card-inner">
                             <div className="flip-card-front">
-                                <img src={Tableau} width="400" height="250" style={{ borderRadius: '5px' }} alt='Project Adidas Sales Tableau dashboard'></img>
+                                <img src={Tableau} className='imgProj' style={{ borderRadius: '5px' }} alt='Project Adidas Sales Tableau dashboard'></img>
                             </div>
                             <div className="flip-card-back">
                                 <h3>Tableau</h3>
@@ -95,7 +95,7 @@ export const Projects = () => {
                 {/* <div className="flip-card">
                         <div className="flip-card-inner">
                             <div className="flip-card-front">
-                                <img src='' width="400" height="250" style={{ borderRadius: '5px' }}></img>
+                                <img src='' className='imgProj' style={{ borderRadius: '5px' }}></img>
                             </div>
                             <div className="flip-card-back">
                                 <h3>Python</h3>
