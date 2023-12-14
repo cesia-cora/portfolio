@@ -23,12 +23,12 @@ export const Skills = () => {
                                 <span class=''><img src={Python}></img>
                                     <p>Python</p>
                                 </span>
-                                <span><img src={Pandas}></img>
+                                {/* <span><img src={Pandas}></img>
                                     <p>Pandas</p></span>
                                 <span><img src={Numpy}></img>
                                     <p>Numpy</p></span>
                                 <span><img src={Seaborn}></img>
-                                    <p>Seaborn</p></span>
+                                    <p>Seaborn</p></span> */}
                                 <span class=""><img src={Django}></img>
                                     <p>Django</p>
                                 </span>
@@ -49,22 +49,22 @@ export const Skills = () => {
                                     <p>Express.js</p></span>
                                 <span class=""><img src={React} width="80"></img>
                                     <p>React</p></span>
-                                <span class=""><img src={Vite} width="80"></img>
-                                    <p>Vite</p></span>
+                                {/* <span class=""><img src={Vite} width="80"></img>
+                                    <p>Vite</p></span> */}
                                 <span class=""><img src={Mongo}></img>
                                     <p>MongoDB</p></span>
                                 <span class=""><img src={Firebase}></img>
                                     <p>Firebase</p></span>
                                 <span class=""><img src={CSS} width="80"></img>
                                     <p>CSS</p></span>
-                                <span class=""><img src={Sass} width="80"></img>
-                                    <p>Sass</p></span>
-                                <span class=""><img src={Bootstrap} width="80"></img>
+                                {/* <span class=""><img src={Sass} width="80"></img>
+                                    <p>Sass</p></span> */}
+                                {/* <span class=""><img src={Bootstrap} width="80"></img>
                                     <p>Bootstrap</p></span>
                                 <span class=""><img src={Bulma} width="80"></img>
                                     <p>Bulma</p></span>
                                 <span class=""><img src={Postman} width="90"></img>
-                                    <p>Postman</p></span>
+                                    <p>Postman</p></span> */}
                                 <span class=""><img src={Git} width="90"></img>
                                     <p>Git</p></span>
                                 <span class=""><img src={Tableau1} width="80"></img>
