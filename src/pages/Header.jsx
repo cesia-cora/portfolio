@@ -18,10 +18,10 @@ export const Header = () => {
                     </motion.div>
                     <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ duration: 0.5, delay: 0.3 }}>
                         <div class="redes">
-                            <div className='red'>
+                            {/* <div className='red'>
                                 <a href='' download><img src={Document} width='70' alt='Resume icon' loading='lazy'></img></a>
                                 <p>{t('download.curriculum')}</p>
-                            </div>
+                            </div> */}
                             <div class="red">
                                 <a href="https://linkedin.com/in/cesia-cora" target="_blank"><img src={Linkedin} width="70"
                                     alt="LinkedIn icon" loading="lazy"></img></a>
