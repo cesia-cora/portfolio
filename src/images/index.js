@@ -41,6 +41,7 @@ import Marvel from './projects/marvel.webp';
 import Tableau from './projects/tableau.png';
 import Fastapi1 from './projects/fastapi.webp';
 import Hestia from './projects/hestia.webp';
+import Sleep from './projects/sleep.webp';
 
 //Certifications
 import CACNode from './certifications/codo-a-codo-node.webp';
@@ -54,7 +55,7 @@ export {
     Python, Express, Django, CSS, Sass, Bulma,
     Bootstrap, FastAPI, Javascript, NodeJS, React, Vite,
     Postman, Postgres, MySQL, Mongo, Firebase, Pic,
-    CACNode, Cadmus, Marvel, Fastapi1, Tableau,
+    CACNode, Cadmus, Marvel, Fastapi1, Tableau, Sleep,
     Tableau1, SQLite, Git, CS50W, CS50x, Hestia, DB,
     Pandas, Numpy, Seaborn
 }

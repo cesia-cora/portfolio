@@ -1,4 +1,4 @@
-import { Cadmus, Fastapi1, Marvel, Tableau, Hestia } from '../images';
+import { Cadmus, Fastapi1, Marvel, Tableau, Hestia, Sleep } from '../images';
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
 
@@ -36,7 +36,7 @@ export const Projects = () => {
                             <div className="flip-card-back">
                                 <h3>Express.js, MySQL</h3>
                                 <p>{t('project.hestia')}</p>
-                                <br></br><a class="btn-link" href="https://github.com/cesia-cora/hestia-project"
+                                <br></br><a class="btn-link" href="https://github.com/cesia-cora/hestia"
                                     target="_blank">Github</a>
                             </div>
                         </div>
@@ -92,10 +92,10 @@ export const Projects = () => {
                     </div>
                 </motion.div>
 
-                {/* <div className="flip-card">
+                <div className="flip-card">
                         <div className="flip-card-inner">
                             <div className="flip-card-front">
-                                <img src='' className='imgProj' style={{ borderRadius: '5px' }}></img>
+                                <img src={Sleep} className='imgProj' style={{ borderRadius: '5px' }}></img>
                             </div>
                             <div className="flip-card-back">
                                 <h3>Python</h3>
@@ -103,7 +103,7 @@ export const Projects = () => {
                                 <br></br><a class="btn-link" href="" target="_blank">(in progress)</a>
                             </div>
                         </div>
-                    </div> */}
+                    </div>
             </div>
         </>
     )
