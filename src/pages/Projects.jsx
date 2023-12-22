@@ -92,7 +92,8 @@ export const Projects = () => {
                     </div>
                 </motion.div>
 
-                <div className="flip-card">
+                <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ duration: 0.5, delay: 0.6 }}>
+                    <div className="flip-card">
                         <div className="flip-card-inner">
                             <div className="flip-card-front">
                                 <img src={Sleep} className='imgProj' style={{ borderRadius: '5px' }}></img>
@@ -104,6 +105,7 @@ export const Projects = () => {
                             </div>
                         </div>
                     </div>
+                </motion.div>
             </div>
         </>
     )
