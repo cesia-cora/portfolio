@@ -55,9 +55,9 @@ export const Skills = () => {
                                     <p>MongoDB</p></span>
                                 <span class=""><img src={Firebase}></img>
                                     <p>Firebase</p></span>
-                                <span class=""><img src={CSS} width="80"></img>
+                                {/*<span class=""><img src={CSS} width="80"></img>
                                     <p>CSS</p></span>
-                                {/* <span class=""><img src={Sass} width="80"></img>
+                                <span class=""><img src={Sass} width="80"></img>
                                     <p>Sass</p></span> */}
                                 {/* <span class=""><img src={Bootstrap} width="80"></img>
                                     <p>Bootstrap</p></span>
