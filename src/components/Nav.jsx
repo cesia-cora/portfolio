@@ -23,8 +23,8 @@ export const Nav = () => {
                         class="tooltiptext">{t('nav.skills')}</span></span>
                     <span class="tooltip"><a href="#Projects" alt="Proyectos"><img src={Project} width="35" alt='Projects icon'></img></a><span
                         class="tooltiptext">{t('nav.projects')}</span></span>
-                    {/* <span class="tooltip"><a href="#Contact" alt="Contáctame"><img src={Adress} width="30"></img></a><span
-                        class="tooltiptext">{t('nav.contact')}</span></span> */}
+                    <span class="tooltip"><a href="#Contact" alt="Contáctame"><img src={Adress} width="30"></img></a><span
+                        class="tooltiptext">{t('nav.contact')}</span></span>
                     {/*<span className="tooltip"><img src={Resources} width="30"></img>
                 <span className="tooltiptext">{t('nav.resources')}</span></span>*/}
             </nav>

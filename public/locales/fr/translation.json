@@ -29,10 +29,10 @@
       "ML-1": "Notebook sur les prédictions de la santé du sommeil à l'aide de l'apprentissage automatique."
     },
     "contact": {
+      "name": "Nom et prénom:",
+      "yourName": "Votre nom complet...",
       "email": "Email:",
       "yourEmail": "Votre email...",
-      "subject": "Sujet:",
-      "yourSubject": "Sujet?",
       "message": "Message:",
       "yourMessage": "Votre message...",
       "submit": "Envoyer"

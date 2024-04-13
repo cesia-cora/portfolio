@@ -29,10 +29,10 @@
       "ML-1": "Documento sobre predicciones en la salud del sueño utilizando aprendizaje automático."
     },
     "contact": {
+      "name": "Nombre completo:",
+      "yourName": "Escribe tu nombre aquí...",
       "email": "Correo:",
       "yourEmail": "Tu correo electrónico",
-      "subject": "Asunto:",
-      "yourSubject": "¿Asunto?",
       "message": "Mensaje:",
       "yourMessage": "Escribe tu mensaje...",
       "submit": "Enviar"

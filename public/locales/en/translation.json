@@ -29,10 +29,10 @@
       "ML-1": "Notebook on sleep health predictions using machine learning."
     },
     "contact": {
+      "name": "Full name:",
+      "yourName": "Type your full name here...",
       "email": "Email:",
       "yourEmail": "Your email...",
-      "subject": "Subject:",
-      "yourSubject": "Subject?",
       "message": "Message:",
       "yourMessage": "Type your message...",
       "submit": "Submit"
