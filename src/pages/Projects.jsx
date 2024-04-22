@@ -101,7 +101,7 @@ export const Projects = () => {
                             <div className="flip-card-back">
                                 <h3>Python</h3>
                                 <p>{t('project.ML-1')}</p>
-                                <br></br><a class="btn-link" href="" target="_blank">(in progress)</a>
+                                <br></br><a class="btn-link" href="https://github.com/cesia-cora/sleep_health" target="_blank">Github</a>
                             </div>
                         </div>
                     </div>
