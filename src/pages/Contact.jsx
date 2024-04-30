@@ -11,7 +11,7 @@ export const Contact = () => {
 
     const [error, setError] = useState("");
 
-    function submit(e) {
+    function onSubmit(e) {
         e.preventDefault();
         e.stopPropagation();
 
@@ -47,17 +47,17 @@ export const Contact = () => {
             </div>
             <div id="contactContainer">
                 <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1, delay: 0.8 }}>
-                    <form onSubmit={(e) => onSubmit(e)} method="post" enctype="text/plain" className="form-control">
+                    <form onSubmit={(e) => onSubmit(e)} method='POST' enctype="text/plain" className="form-control">
                         
                         <label form='name'>{t('contact.name')}</label>
-                        <input type='text' value={name} onChange={(e) => setName(e.target.value)} placeholder={t('contact.yourName')}></input>
+                        <input type='text' name='name' id='name' value={name} onChange={(e) => setName(e.target.value)} placeholder={t('contact.yourName')}></input>
                         
                         <label for="email">{t('contact.email')}</label>
-                        <input type="email" name="email" placeholder={t('contact.yourEmail')} value={email} onChange={(e) => setEmail(e.target.value)}></input>
+                        <input type="email" name="email" id='email' placeholder={t('contact.yourEmail')} value={email} onChange={(e) => setEmail(e.target.value)}></input>
                         
                         <label for="message">{t('contact.message')}</label>
                         <textarea placeholder={t('contact.yourMessage')} value={message} onChange={(e) => setMessage(e.target.value)}></textarea>
-                        <input type="submit" className="btn-link" value={t('contact.submit')}></input>
+                        <input type="submit" name='message' id='message' className="btn-link" value={t('contact.submit')}></input>
                     </form>
                 </motion.div>
             </div>
