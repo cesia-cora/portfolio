@@ -11,7 +11,7 @@ export const About = () => {
                     {t('title.about')}
                 </motion.div>
             </div>
-            <div className="">
+            <div>
                 <div id="sobre-mi">
                     <div id="about">
                         <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ duration: 0.3, delay: 0.1 }}>

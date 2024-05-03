@@ -9,6 +9,7 @@ import Telegram from './icons/telegram.png';
 import Linkedin from './icons/linkedin.png';
 import Github from './icons/github.png';
 import Document from './icons/document.png';
+import Blog from './icons/blog.png';
 
 /* Skills logos */
 import Python from './logos/python.svg';
@@ -37,7 +38,7 @@ import Hestia from './projects/hestia.webp';
 import Sleep from './projects/sleep.webp';
 
 export {
-    Home, Skill, About, Adress, Project, Resources,
+    Home, Skill, About, Adress, Project, Resources, Blog,
     Telegram, Linkedin, Github, Document,
     Python, Express, Django, FastAPI, Javascript, NodeJS, React,
     Postgres, MySQL, Mongo, Firebase,

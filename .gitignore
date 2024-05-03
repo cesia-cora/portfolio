@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+/src/pages/Courses.jsx
+/src/pages/Blog.jsx
+/src/markdown
