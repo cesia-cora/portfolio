@@ -40,8 +40,8 @@ export const Nav = () => {
                     class="tooltiptext">{t('nav.contact')}</span></span></Link>
                 {/*<span className="tooltip"><img src={Resources} width="30"></img>
                 <span className="tooltiptext">{t('nav.resources')}</span></span>
-                <Link to='/blog'><span className="tooltip"><img src={Blog} width="35"></img>
-                <span className="tooltiptext">Blog</span></span></Link>*/}
+                <span className="tooltip"><img src={Blog} width="35"></img>
+                <span className="tooltiptext">Blog</span></span>*/}
             </nav>
 
             <div className="languages">
