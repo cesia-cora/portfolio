@@ -677,6 +677,18 @@ label {
   width: 100px;
 }
 
+/* Blog */
+
+.blog {
+  min-height: 100vh;
+  padding: 40px 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.blogContent {
+  padding: 0% 18%;
+}
+
 /* Footer */
 
 .ft-row-1 a,

@@ -39,9 +39,9 @@ export const Nav = () => {
                 <Link to='/' onClick={() => handleNavigate('/', '#Contact')}><span class="tooltip"><img src={Adress} width="35"></img><span
                     class="tooltiptext">{t('nav.contact')}</span></span></Link>
                 {/*<span className="tooltip"><img src={Resources} width="30"></img>
-                <span className="tooltiptext">{t('nav.resources')}</span></span>
-                <span className="tooltip"><img src={Blog} width="35"></img>
-                <span className="tooltiptext">Blog</span></span>*/}
+                <span className="tooltiptext">{t('nav.resources')}</span></span>*/}
+                <Link to='/blog'><span className="tooltip"><img src={Blog} width="35"></img>
+                <span className="tooltiptext">Blog</span></span></Link>
             </nav>
 
             <div className="languages">

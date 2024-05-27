@@ -1,6 +1,6 @@
 {
     "header": {
-      "developer": "Desarrolladora Web"
+      "developer": "Desarrolladora de Software"
     },
     "download": {
         "curriculum": "Currículo"
@@ -20,12 +20,11 @@
       "contact": "Contacto"
     },
     "project": {
-      "cadmus": "Aplicación web de diario personal o agenda. Posee formato de texto enriquecido.",
+      "cadmus": "Aplicación web de diario/agenda personal.",
       "hestia": "Aplicación web de recetas de pastelería y confitería.",
       "library": "Aplicación web de catálogo bibliotecario.",
       "marveling": "Proyecto grupal de aplicación web con temática de Marvel Studios. Posee noticias, base de datos de personajes y tienda virtual.",
       "tableau": "Visualización de gráficos y storytelling sobre ventas de Adidas.",
-      "hermes": "Tienda de té y café.",
       "ML-1": "Documento sobre predicciones en la salud del sueño utilizando aprendizaje automático."
     },
     "contact": {
@@ -38,7 +37,7 @@
       "submit": "Enviar"
     },
     "aboutMe": {
-      "firstP": "Desarrolladora web enfocada al back-end.",
+      "firstP": "Desarrolladora de Python & JavaScript enfocada al back-end y análisis de datos.",
       "secP": "Capaz de emplear herramientas con eficacia y ofrecer soluciones prácticas.",
       "thirdP": "Invierto mis conocimientos técnicos en desarrollos productivos y efectivos."
     }

@@ -1,6 +1,6 @@
 {
     "header": {
-      "developer": "Web Developer"
+      "developer": "Software Developer"
     },
     "download": {
         "curriculum": "Resumé"
@@ -20,13 +20,12 @@
       "contact": "Contact"
     },
     "project": {
-      "cadmus": "Personal diary or journal web application. Rich text formatting.",
+      "cadmus": "Personal diary/journal web application.",
       "hestia": "Baking and confectionery recipes web application.",
       "library": "Library catalogue web application.",
       "marveling": "Marvel theme web application group project. News, characters database and virtual store.",
       "tableau": "Adidas sales visualization and storytelling.",
-      "hermes": "Tea and coffee shop.",
-      "ML-1": "Notebook on sleep health predictions using machine learning."
+      "ML-1": "Sleep health analysis and predictions document using machine learning."
     },
     "contact": {
       "name": "Full name:",
@@ -38,8 +37,8 @@
       "submit": "Submit"
     },
     "aboutMe": {
-      "firstP": "Back-End trained web developer.",
-      "secP": "Competent in using tools effectively and offering practical solutions.",
-      "thirdP": "I invest my capabilities in productive and effective developments."
+      "firstP": "Python & JavaScript back-end oriented developer and data analyst.",
+      "secP": "Competent in applying tools effectively and offering practical solutions.",
+      "thirdP": "I invest my capabilities in productive and fruitful developments."
     }
 }
