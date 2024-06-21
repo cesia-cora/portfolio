@@ -11,7 +11,7 @@ export const Blog = () => {
     const [markdown, setMarkdown] = useState('');
 
     const loadArticle = (fileName) => {
-        fetch(`/markdown/${fileName}`)
+        fetch(`../markdown/${fileName}`)
             .then(res => res.text())
             .then(text => {
                 setMarkdown(text);
