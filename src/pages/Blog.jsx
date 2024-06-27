@@ -2,7 +2,7 @@ import { useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 
 const articles = [
-    { title: "2024/05/05 - Handling In-Page Navigation with react-router-dom's Link Component", file: "../src/markdown/link_react_router_dom.md" },
+    { title: "2024/05/05 - Handling In-Page Navigation with react-router-dom's Link Component", file: "link_react_router_dom.md" },
 ];
 
 export const Blog = () => {
@@ -11,7 +11,7 @@ export const Blog = () => {
     const [markdown, setMarkdown] = useState('');
 
     const loadArticle = (fileName) => {
-        fetch(`../markdown/${fileName}`)
+        fetch(`/markdown/${fileName}`)
             .then(res => res.text())
             .then(text => {
                 setMarkdown(text);
