@@ -1,6 +1,6 @@
 {
     "header": {
-      "developer": "Software Developer"
+      "developer": "IT student"
     },
     "download": {
         "curriculum": "Resumé"
@@ -37,7 +37,7 @@
       "submit": "Submit"
     },
     "aboutMe": {
-      "firstP": "Information Technology student, Python & JavaScript back-end oriented developer and data analyst.",
+      "firstP": "Information Technology student, specialized in back-end development and data analysis.",
       "secP": "Competent in applying tools effectively and offering practical solutions.",
       "thirdP": "I invest my capabilities in productive and fruitful developments."
     }

@@ -1,6 +1,6 @@
 {
     "header": {
-      "developer": "Développeur logiciel"
+      "developer": "Étudiant en TI"
     },
     "download": {
         "curriculum": "Curriculum"
@@ -25,8 +25,7 @@
       "library": "Application web de catalogue de bibliothèque.",
       "marveling": "Projet de groupe d’application web sur le thème de Marvel Studios. Il dispose d’actualités, d’une base de données de personnages et d’un magasin virtuel.",
       "tableau": "Visualisation des graphiques de vente et du storytelling d'Adidas.",
-      "hermes": "Boutique de thé et café.",
-      "ML-1": "Notebook sur les prédictions de la santé du sommeil à l'aide de l'apprentissage automatique."
+      "ML-1": "AED sur les prédictions de la santé du sommeil à l'aide de l'apprentissage automatique."
     },
     "contact": {
       "name": "Nom et prénom:",
@@ -38,7 +37,7 @@
       "submit": "Envoyer"
     },
     "aboutMe": {
-      "firstP": "Étudiant en Technologies de l'Information, développeur Python & JavaScript spécialisé dans le back-end et data analytics.",
+      "firstP": "Étudiant en Technologies de l'Information, spécialisée dans le développement back-end et l'analyse des données.",
       "secP": "Capable d'utiliser des outils efficacement et d'offrir des solutions pratiques.",
       "thirdP": "J'investis mes connaissances pour des développements productifs et efficaces."
     }

@@ -1,4 +1,4 @@
-### Handling In-Page Navigation with react-router-dom's Link Component
+# Handling In-Page Navigation with react-router-dom's Link Component
 
 `2024, May 5`
 

@@ -18,8 +18,7 @@
     "react-dom": "^18.2.0",
     "react-i18next": "^13.2.1",
     "react-markdown": "^9.0.1",
-    "react-router-dom": "^6.11.0",
-    "wouter": "^2.11.0"
+    "react-router-dom": "^6.11.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
