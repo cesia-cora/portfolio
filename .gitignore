@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 /src/pages/Courses.jsx
-/public/markdown/algo_ds_java.md
+/src/pages/Blog.jsx
