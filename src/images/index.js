@@ -28,6 +28,7 @@ import Tableau1 from './logos/tableau.svg';
 import Git from './logos/git.svg';
 import Numpy from './logos/numpy.svg';
 import Seaborn from './logos/seaborn.svg';
+import Java from './logos/java.png';
 
 /* Projects screencaps */
 import Cadmus from './projects/cadmus.png';
@@ -43,5 +44,5 @@ export {
     Python, Express, Django, FastAPI, Javascript, NodeJS, React,
     Postgres, MySQL, Mongo, Firebase,
     Cadmus, Marvel, Fastapi1, Tableau, Sleep,
-    Tableau1, SQLite, Git, Hestia, Numpy, Seaborn
+    Tableau1, SQLite, Git, Hestia, Numpy, Seaborn, Java
 }

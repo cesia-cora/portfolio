@@ -106,23 +106,6 @@ export const Projects = () => {
                         </div>
                     </div>
                 </motion.div>
-
-                {/* <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ duration: 0.5, delay: 0.6 }}>
-                    <div className="flip-card">
-                        <div className="flip-card-inner">
-                            <div className="flip-card-front">
-                                <img src="" className='imgProj' style={{ borderRadius: '5px' }}></img>
-                            </div>
-                            <div className="flip-card-back">
-                                <h3>Python</h3>
-                                <p>Análisis de pronóstico y detección de tormentas, inundaciones y huracanes usando datos de clima de open-meteo.</p>
-                                <br></br>
-                                <a class="btn-link" href="" target="_blank">Deploy</a> 
-                                <a class="btn-link" href="" target="_blank">(in progress)</a>
-                            </div>
-                        </div>
-                    </div>
-                </motion.div> */}
             </div>
         </>
     )
