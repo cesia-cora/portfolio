@@ -20,9 +20,9 @@
       "contact": "Contacto"
     },
     "project": {
-      "cadmus": "Aplicación web de diario/agenda personal.",
-      "hestia": "Aplicación web de recetas de pastelería y confitería.",
-      "library": "Aplicación web de catálogo bibliotecario.",
+      "cadmus": "Aplicación web de diario/agenda personal acompañada de un editor de texto enriquecido y descargas de entradas en formato PDF.",
+      "hestia": "Aplicación web de recetas de pastelería y confitería. Dotada de un sistema de autenticación y opción de descargas de recetas en formato PDF.",
+      "library": "Aplicación web de gestión de catálogo bibliotecario con sistema de autenticación.",
       "marveling": "Proyecto grupal de aplicación web con temática de Marvel Studios. Posee noticias, base de datos de personajes y tienda virtual.",
       "tableau": "Visualización de gráficos y storytelling sobre ventas de Adidas.",
       "ML-1": "Documento sobre predicciones en la salud del sueño utilizando aprendizaje automático."

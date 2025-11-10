@@ -5,9 +5,10 @@ import { useState } from 'react';
 export const Contact = () => {
     const { t, i18n } = useTranslation();
 
-    const [name, setName] = useState('')
-    const [email, setEmail] = useState('')
-    const [message, setMessage] = useState('')
+    const [name, setName] = useState('');
+    const [email, setEmail] = useState('');
+    const [message, setMessage] = useState('');
+    const [success, setSuccess] = useState('');
 
     const [error, setError] = useState("");
 
@@ -26,16 +27,25 @@ export const Contact = () => {
             .then((res) => res.json())
             .then((res) => {
                 if (res.code === 200) {
-                    alert("Tu correo ha sido enviado.");
+                    setSuccess("Tu correo ha sido enviado.");
+                    setName('');
+                    setEmail('');
+                    setMessage('');
+                    setError('');
                 }
                 else if (res.code === 422) {
                     setError(res.message);
+                    setSuccess('');
                 }
                 else {
                     setError(res.message);
+                    setSuccess('');
                 }
             })
-            .catch((error) => setError(error.message ? error.message : error));
+            .catch((error) => { 
+                setError(error.message ? error.message : String(error))
+                setSuccess('');
+            });
     }
 
     return (
@@ -49,15 +59,18 @@ export const Contact = () => {
                 <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1, delay: 0.8 }}>
                     <form onSubmit={(e) => onSubmit(e)} method='POST' enctype="text/plain" className="form-control">
                         
-                        <label form='name'>{t('contact.name')}</label>
+                        <label htmlFor='name'>{t('contact.name')}</label>
                         <input type='text' name='name' id='name' value={name} onChange={(e) => setName(e.target.value)} placeholder={t('contact.yourName')}></input>
                         
-                        <label for="email">{t('contact.email')}</label>
+                        <label htmlfor="email">{t('contact.email')}</label>
                         <input type="email" name="email" id='email' placeholder={t('contact.yourEmail')} value={email} onChange={(e) => setEmail(e.target.value)}></input>
                         
-                        <label for="message">{t('contact.message')}</label>
+                        <label htmlFor="message">{t('contact.message')}</label>
                         <textarea placeholder={t('contact.yourMessage')} value={message} onChange={(e) => setMessage(e.target.value)}></textarea>
                         <input type="submit" name='message' id='message' className="btn-link" value={t('contact.submit')}></input>
+
+                        {error && <div className="form-message error" role="alert">{error}</div>}
+                        {success && <div className="form-message success" role="status">{success}</div>}
                     </form>
                 </motion.div>
             </div>

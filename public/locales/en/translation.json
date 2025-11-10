@@ -20,12 +20,12 @@
       "contact": "Contact"
     },
     "project": {
-      "cadmus": "Personal diary/journal web application.",
-      "hestia": "Baking and confectionery recipes web application.",
-      "library": "Library catalogue web application.",
-      "marveling": "Marvel theme web application group project. News, characters database and virtual store.",
+      "cadmus": "Personal diary/journal web app with a rich text editor and PDF entry downloads.",
+      "hestia": "Baking and confectionery recipes web app. It features an authentication system and the option to download recipes in PDF format.",
+      "library": "Library catalogue management web app with an authentication system.",
+      "marveling": "Marvel theme web app group project. News, characters database and virtual store.",
       "tableau": "Adidas sales visualization and storytelling.",
-      "ML-1": "Sleep health analysis and predictions document using machine learning."
+      "ML-1": "Document on predictions and analysis in sleep health using machine learning."
     },
     "contact": {
       "name": "Full name:",
