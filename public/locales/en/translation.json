@@ -20,12 +20,12 @@
       "contact": "Contact"
     },
     "project": {
-      "cadmus": "Personal diary/journal web app with a rich text editor and PDF entry downloads.",
+      "cadmus": "Personal diary/planner web application featuring a rich text editor, PDF downloads, user authentication/authorization, and symmetric data encryption.",
       "hestia": "Baking and confectionery recipes web app. It features an authentication system and the option to download recipes in PDF format.",
       "library": "Library catalogue management web app with an authentication system.",
-      "marveling": "Marvel theme web app group project. News, characters database and virtual store.",
+      "marveling": "Marvel Studios-themed group web application project. It features a user authentication system, a non-relational database, and API integration.",
       "tableau": "Adidas sales visualization and storytelling.",
-      "ML-1": "Document on predictions and analysis in sleep health using machine learning."
+      "ML-1": "Document on sleep health prediction using machine learning and data pipelines."
     },
     "contact": {
       "name": "Full name:",
@@ -38,7 +38,7 @@
     },
     "aboutMe": {
       "firstP": "Information Technology student based in Buenos Aires, Argentina.",
-      "secP": "I'm proficient in the use of tools to achieve real-world solutions.",
-      "thirdP": "I invest my capabilities in productive and fruitful developments."
+      "secP": "I'm proficient on building practical solutions for real-world problems.",
+      "thirdP": "I invest my capabilities on efficient, impactful software."
     }
 }

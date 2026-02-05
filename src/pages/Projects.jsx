@@ -101,7 +101,7 @@ export const Projects = () => {
                                 <img src={Sleep} className='imgProj' style={{ borderRadius: '5px' }}></img>
                             </div>
                             <div className="flip-card-back">
-                                <h3>Python</h3>
+                                <h3>Python, Prefect, SQLAlchemy</h3>
                                 <p>{t('project.ML-1')}</p>
                                 <br></br><a class="btn-link" href="https://github.com/cesia-cora/sleep_health" target="_blank">Github</a>
                             </div>

@@ -20,12 +20,12 @@
       "contact": "Contact"
     },
     "project": {
-      "cadmus": "App web de journal/agenda personnel accompagnée d'un éditeur de texte enrichi et de téléchargements d'entrées au format PDF.",
+      "cadmus": "App web de journal/agenda personnel accompagnée d'un éditeur de texte enrichi, de téléchargements PDF, de l'authentification/autorisation des utilisateurs et d'un chiffrement symétrique des données.",
       "hestia": "App web de recettes de pâtisserie et de confiserie, dotée d'un système d'authentification et d'une fonctionnalité de téléchargement des recettes au format PDF.",
       "library": "App web de gestion de catalogue bibliothécaire avec authentification.",
-      "marveling": "Projet de groupe d’application web sur le thème de Marvel Studios. Il dispose d’actualités, d’une base de données de personnages et d’un magasin virtuel.",
+      "marveling": "Projet de groupe d'application web sur le thème de Marvel Studios. Il dispose d'un système d'authentification des utilisateurs, d'une base de données non relationnelle et d'une intégration d'API.",
       "tableau": "Visualisation des graphiques de vente et du storytelling d'Adidas.",
-      "ML-1": "AED sur les prédictions de la santé du sommeil à l'aide de l'apprentissage automatique."
+      "ML-1": "Document sur les prédictions de la santé du sommeil via l'apprentissage automatique et les pipelines de données."
     },
     "contact": {
       "name": "Nom et prénom:",

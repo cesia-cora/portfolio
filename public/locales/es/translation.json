@@ -20,12 +20,12 @@
       "contact": "Contacto"
     },
     "project": {
-      "cadmus": "Aplicación web de diario/agenda personal acompañada de un editor de texto enriquecido y descargas de entradas en formato PDF.",
+      "cadmus": "Aplicación web de diario/agenda personal acompañada de un editor de texto enriquecido, descargas en PDF, autenticación/autorización de usuarios y cifrado simétrico de datos.",
       "hestia": "Aplicación web de recetas de pastelería y confitería. Dotada de un sistema de autenticación y opción de descargas de recetas en formato PDF.",
       "library": "Aplicación web de gestión de catálogo bibliotecario con sistema de autenticación.",
-      "marveling": "Proyecto grupal de aplicación web con temática de Marvel Studios. Posee noticias, base de datos de personajes y tienda virtual.",
+      "marveling": "Proyecto grupal de aplicación web con temática de Marvel Studios. Posee sistema de autenticación de usuarios, base de datos no-relacional e integración de API.",
       "tableau": "Visualización de gráficos y storytelling sobre ventas de Adidas.",
-      "ML-1": "Documento sobre predicciones en la salud del sueño utilizando aprendizaje automático."
+      "ML-1": "Documento sobre predicciones en la salud del sueño mediante aprendizaje automático y pipelines de datos."
     },
     "contact": {
       "name": "Nombre completo:",
@@ -38,7 +38,7 @@
     },
     "aboutMe": {
       "firstP": "Estudiante de Tecnologías de la Información de Buenos Aires, Argentina.",
-      "secP": "Capaz de emplear herramientas con eficacia y ofrecer soluciones prácticas.",
-      "thirdP": "Invierto mis conocimientos técnicos en desarrollos productivos y efectivos."
+      "secP": "Capaz de emplear herramientas con eficiencia y ofrecer soluciones prácticas.",
+      "thirdP": "Invierto mis conocimientos técnicos en software productivo y efectivo."
     }
 }
