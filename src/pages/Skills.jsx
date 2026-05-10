@@ -1,6 +1,6 @@
 import {
     Python, Django, NodeJS, React, Javascript,
-    Express, FastAPI,
+    Express, FastAPI, Java,
     Postgres, SQLite, MySQL, Mongo, Firebase, Tableau1, Git,
 } from '../images';
 import { useTranslation } from 'react-i18next';
@@ -19,6 +19,9 @@ export const Skills = () => {
                     <div class="wrapper">
                         <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ duration: 0.4, delay: 0.2 }}>
                             <div class="container-list">
+                                <span class=''><img src={Java}></img>
+                                    <p>Java</p>
+                                </span>
                                 <span class=''><img src={Python}></img>
                                     <p>Python</p>
                                 </span>
