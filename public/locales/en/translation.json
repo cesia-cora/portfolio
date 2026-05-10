@@ -20,7 +20,7 @@
       "contact": "Contact"
     },
     "project": {
-      "cadmus": "Personal diary/planner web application featuring a rich text editor, PDF downloads, user authentication/authorization, and symmetric data encryption.",
+      "cadmus": "Journaling app development. Features concurrency management, reporting system, user authentication/authorization and symmetric data encryption.",
       "hestia": "Baking and confectionery recipes web app. It features an authentication system and the option to download recipes in PDF format.",
       "library": "Library catalogue management web app with an authentication system.",
       "marveling": "Marvel Studios-themed group web application project. It features a user authentication system, a non-relational database, and API integration.",

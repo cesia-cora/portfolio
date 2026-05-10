@@ -20,8 +20,8 @@
       "contact": "Contacto"
     },
     "project": {
-      "cadmus": "Aplicación web de diario/agenda personal acompañada de un editor de texto enriquecido, descargas en PDF, autenticación/autorización de usuarios y cifrado simétrico de datos.",
-      "hestia": "Aplicación web de recetas de pastelería y confitería. Dotada de un sistema de autenticación y opción de descargas de recetas en formato PDF.",
+      "cadmus": "Desarrollo de una aplicación journaling. Posee manejo de concurrencia, sistema de reportería, autenticación/autorización de usuarios y cifrado simétrico de datos.",
+      "hestia": "Aplicación web de recetas de pastelería y confitería. Dotada de un sistema de autenticación y sistema de reportería.",
       "library": "Aplicación web de gestión de catálogo bibliotecario con sistema de autenticación.",
       "marveling": "Proyecto grupal de aplicación web con temática de Marvel Studios. Posee sistema de autenticación de usuarios, base de datos no-relacional e integración de API.",
       "tableau": "Visualización de gráficos y storytelling sobre ventas de Adidas.",

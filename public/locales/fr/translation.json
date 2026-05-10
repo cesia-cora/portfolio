@@ -20,7 +20,7 @@
       "contact": "Contact"
     },
     "project": {
-      "cadmus": "App web de journal/agenda personnel accompagnée d'un éditeur de texte enrichi, de téléchargements PDF, de l'authentification/autorisation des utilisateurs et d'un chiffrement symétrique des données.",
+      "cadmus": "App web de journal/agenda personnel accompagnée de système de concurrence, système de rapportage, l'authentification/autorisation des utilisateurs et chiffrement symétrique des données.",
       "hestia": "App web de recettes de pâtisserie et de confiserie, dotée d'un système d'authentification et d'une fonctionnalité de téléchargement des recettes au format PDF.",
       "library": "App web de gestion de catalogue bibliothécaire avec authentification.",
       "marveling": "Projet de groupe d'application web sur le thème de Marvel Studios. Il dispose d'un système d'authentification des utilisateurs, d'une base de données non relationnelle et d'une intégration d'API.",

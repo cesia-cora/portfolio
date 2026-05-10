@@ -7,6 +7,9 @@ export const Footer = () => {
                     <img src="pixel-avatar.png" id="pixelAvatar"></img>
                     <a href="https://www.github.com/cesia-cora" target="_blank">Github</a>
                 </div>
+            <div className="ft-row-1">
+                &copy; 2023 - <script>document.write(new Date().getFullYear());</script>
+            </div>
                 <div className="ft-row-2">
                     <p style={{'fontSize': '12px'}}>Pixel art by <a href="https://twitter.com/viiolaceus" target="_blank">viiolaceus</a></p>
                 </div>
